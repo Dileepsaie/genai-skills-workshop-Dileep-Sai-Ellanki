@@ -79,3 +79,12 @@ Vertex AI EvalTask used for:
 ## 7) Running the API
 
 uvicorn main:app --host 0.0.0.0 --port 8081
+
+## 8) Deployment
+
+The service can be containerized and deployed to Cloud Run.
+Environment variables are used for configuration such as:
+
+BigQuery table IDs
+Gemini model name
+log table ID

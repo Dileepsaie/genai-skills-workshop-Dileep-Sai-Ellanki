@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+gunicorn
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-aiplatform
+vertexai
+pandas
+pyarrow
+PyPDF2
+beautifulsoup4
+lxml
